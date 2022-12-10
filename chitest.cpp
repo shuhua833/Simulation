@@ -23,10 +23,7 @@ int main()
        {
        	if((a[j]>i)&&(a[j]<=i+0.1))
        	{
-       	 if(i>9)
-       		{
-       			cout<<endl<<a[j];
-			   }
+       	 
        	
        		O[count]++;
        		
